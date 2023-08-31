@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "chat-server": "php bin/chat-server.php"
+    }
+}
